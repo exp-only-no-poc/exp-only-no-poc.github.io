@@ -1,10 +1,7 @@
 ---
 title: Running your own JS code inside Windows Defender
-tags: windows javascript research
+tags: windows javascript
 ---
 
-BODY
+TODO
 
----
-
-FOOT
