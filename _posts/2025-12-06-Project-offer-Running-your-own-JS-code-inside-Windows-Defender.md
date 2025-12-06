@@ -31,7 +31,7 @@ The another marketing point of this project offer is that Microsoft published th
 - https://www.microsoft.com/en-us/msrc/bounty-defender
 
 You can check this immediately by downloading `mpengine.dll` from [Winbindex](https://winbindex.m417z.com/) and open it with IDA.
-![image 1](images/project_offer_windows_defender_1.png)
+![image 1](/images/project_offer_windows_defender_1.png)
 
 Send DM to [@exp_only_no_poc](https://x.com/exp_only_no_poc) on X platform if you have any interest for this project!
 

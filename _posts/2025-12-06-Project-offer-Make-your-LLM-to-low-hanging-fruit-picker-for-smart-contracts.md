@@ -20,7 +20,7 @@ I used **Claude Code** + **Sonnet 4.5** model and I found my first **high** seve
 
 To be honest, I couldn't found any fun when I was auditing smart contracts code manually even though it is very expensive target compared to traditional old research targets like browser, kernel, mobile, etc... So I don't want to digging into the web3 bug bounty too deeply, just want to picking some low-hanging fruits by automating the process with LLM. Maybe we can finding some funs by tuning the LLM to web3 bug hunting automata with worthy profit.
 
-![image1](images/project_offer_llm_automation_1.jpg)
+![image1](/images/project_offer_llm_automation_1.jpg)
 
 I think there are some other competitors(?) are already trying to use LLM in same way but web3 bug bounty world is huge and I think it is not niche area as much as traditional major research targets.
 - https://v12.zellic.io/
